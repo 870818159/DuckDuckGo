@@ -1,0 +1,25 @@
+#downbeat 3
+#elms 2
+#absorb 10
+#quail 2
+#milliards 1
+#scrapping 9
+#nihils 2
+#clarified 10
+#junkers 1
+#naiveness 7
+#octopod 1
+#greeks 4
+#pacemaker 1
+#exteriorized 9
+#bobbysocks 4
+#symptomless 3
+#sealers 3
+#dooms 9
+#indubitable 10
+#exhale 7
+#tauten 9
+100000
+#downbeat 3
+#elms 2
+Stop
